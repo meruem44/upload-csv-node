@@ -30,3 +30,11 @@ Se trata de uma aplicação #node, onde é feito o upload de um arquivo .csv, .x
 - Readable
 
 - Docker
+
+## Video demostrativo abaixo, da aplicação funcionando
+
+
+
+https://user-images.githubusercontent.com/48477073/125540239-ba13e2d8-bade-46be-9bb6-307e082fb44b.mp4
+
+
